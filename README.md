@@ -14,7 +14,7 @@ A compact, Raspberry Pi-powered thermal imaging system built for benchtop use. I
 | 🌡️ **Adafruit MLX90640 IR Thermal Camera** | 32×24 thermal resolution, 55° field of view |
 | 📱 **7" Capacitive Touchscreen Display** | 1024×600 resolution with touch support |
 | 🔌 Power Supply | 5V 3A USB-C for Raspberry Pi |
-| 🖼️ Mount/Enclosure | Custom 3D-printed or laser-cut housing (optional) |
+| 🖼️ Mount/Enclosure | Custom 3D-printed and aluminum extrusion (optional) |
 
 ---
 
@@ -25,7 +25,7 @@ A compact, Raspberry Pi-powered thermal imaging system built for benchtop use. I
 - Temperature readout at center or user-tapped location
 - Adjustable color maps (e.g., inferno, jet, gray)
 - Optional data logging mode (CSV or image snapshots)
-- Frame rate: ~16Hz (depends on processing settings)
+- Frame rate: ~2Hz (depends on processing settings)
 
 ---
 
