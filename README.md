@@ -1,4 +1,4 @@
-## Currently organizing the code to be less messy. If wanting access or discuss about code, please visit https://rafalkrzysiak.github.io/ for contact info. I will be more than happy to respond.
+## Currently organizing the code to be less messy. If wanting access or discuss about code, please visit https://rafalkrzysiak.github.io/ for contact info. I will be more than happy to respond. This project has a publication currently under review with title: "TTL: An Open Source DIY Thermo Twin Lab for Smart Thermal Process Condition Monitoring by Physics-Informed Machine Learning".
 
 # 🧪 Benchtop Thermal Imager
 
