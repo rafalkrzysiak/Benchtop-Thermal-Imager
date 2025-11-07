@@ -1,3 +1,5 @@
+## Currently organizing the code to be less messy. If wanting access or discuss about code, please visit https://rafalkrzysiak.github.io/ for contact info. I will be more than happy to respond.
+
 # 🧪 Benchtop Thermal Imager
 
 A compact, Raspberry Pi-powered thermal imaging system built for benchtop use. It features the **Adafruit MLX90640 IR Thermal Camera (55° FOV)**, a **Raspberry Pi 4B**, and a **7" capacitive touch display**, all integrated into a simple user-friendly setup. Designed for educational, DIY, and light industrial applications.
